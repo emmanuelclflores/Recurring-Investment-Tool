@@ -1,4 +1,4 @@
-# Long-term Portfolio Manager
+# Recurring Investment Tool
 Python project for automating recurring investments.
 
 ## Requirements
